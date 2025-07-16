@@ -1,4 +1,4 @@
-title: Riley Spier-Swenson # your name (or website title) here
+title: Kassandra Spier-Swenson # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <small><a href="https://www.linkedin.com/in/rileyswenson/">View My LinkedIn Profile</a></small>
@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br /><br />
   Expert in Databases, Backend Frameworks, Performance, SysOps. 
   <br /><br />
-  <p class="view"><a href="https://github.com/MrStonedOne">View My GitHub Profile</a></p>
+  <p class="view"><a href="https://github.com/MrsTonedOne">View My GitHub Profile</a></p>
   
   
 theme: jekyll-theme-minimal
